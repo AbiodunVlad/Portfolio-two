@@ -176,9 +176,9 @@ export default function Home() {
             >
               Hi, I&apos;m{" "}
               <span className="text-cream font-semibold">Abiodun Omonijo</span>.
-              I&apos;m a visionary developer and strategist specializing in Web
-              &amp; Mobile products. Currently bridging innovation and execution
-              as Head of Product at The Founders&apos; Hub.
+              I&apos;m a developer and IT strategist specializing in Web &amp;
+              Mobile products. Currently bridging innovation and execution for
+              the clients I work with.
             </motion.p>
 
             {/* CTAs */}
